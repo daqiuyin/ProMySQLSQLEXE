@@ -1,0 +1,7 @@
+[221dev]
+host:172.17.209.221
+port:3306
+user:yinghua
+password:123456
+db:fas_top_d
+charset:utf8
